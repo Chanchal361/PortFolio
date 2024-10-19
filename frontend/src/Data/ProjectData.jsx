@@ -5,7 +5,7 @@ export const project = [
         id: 1,
         title: "JobHunt | JobPortal Web app",
         description:"A job portal built using the MERN stack (MongoDB, Express, React, Node.js) allows users to search and apply for jobs, create profiles, and manage applications. Employers can post job listings, review candidates, and manage applications through an intuitive dashboard.",
-        image:"https://raw.githubusercontent.com/Chanchal361/img/refs/heads/main/job.png?token=GHSAT0AAAAAACWIJGVYIHMUVNYRREZ2ZG4EZYT67RA",
+        image:"https://res.cloudinary.com/dvcjmv791/image/upload/v1729363078/intnkpnazfpnse2quajt.png",
         tags: [
             "React Js",
             "Express js",
@@ -29,7 +29,7 @@ export const project = [
         id: 2,
         title: "  ECart | e commerece ",
         description: "A fast, responsive, and user-friendly eCommerce platform built with React.js. quick shipping, and easy navigation across all devices",
-        image: "https://raw.githubusercontent.com/Chanchal361/img/refs/heads/main/ecart.png?token=GHSAT0AAAAAACWIJGVYA3ZR62INYHYZ2FOSZYT7ABA",
+        image: "https://res.cloudinary.com/dvcjmv791/image/upload/v1729363079/vcosemp3ew2a7tc7cddu.png",
         tags: [
             "Tailwind css",
             "React Js",
@@ -54,7 +54,7 @@ export const project = [
         id: 3,
         title: "FoodieHub",
         description: "Introducing FoodieHub is a full-stack food delivery application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless platform for users to explore a variety of restaurants, browse menus, and place orders with just a few clicks.",
-        image: "https://raw.githubusercontent.com/Chanchal361/img/refs/heads/main/food.png?token=GHSAT0AAAAAACWIJGVYYIB63KMPZ4ZSVZQYZYT7AOA",
+        image: "https://res.cloudinary.com/dvcjmv791/image/upload/v1729363082/puou7ejx9ysuiim92phj.png",
         tags: [
             "React Js",
             "Express js",

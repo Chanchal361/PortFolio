@@ -1,15 +1,11 @@
 /* in this modalDescription and loginInfo fields are used 
 for project Modal to shocase project in details */
-import img  from "./img/food.png";    
-import img2  from "./img/job.png";     
-import img3  from "./img/ecart.png";     
-
 export const project = [
     {
         id: 1,
         title: "JobHunt | JobPortal Web app",
         description:"A job portal built using the MERN stack (MongoDB, Express, React, Node.js) allows users to search and apply for jobs, create profiles, and manage applications. Employers can post job listings, review candidates, and manage applications through an intuitive dashboard.",
-        image: `${img2}`,
+        image:"https://github.com/Chanchal361/img/blob/main/job.png?raw=true",
         tags: [
             "React Js",
             "Express js",
@@ -33,7 +29,7 @@ export const project = [
         id: 2,
         title: "  ECart | e commerece ",
         description: "A fast, responsive, and user-friendly eCommerce platform built with React.js. quick shipping, and easy navigation across all devices",
-        image: `${img3}`,
+        image: "https://github.com/Chanchal361/img/blob/main/ecart.png?raw=true",
         tags: [
             "Tailwind css",
             "React Js",
@@ -58,7 +54,7 @@ export const project = [
         id: 3,
         title: "FoodieHub",
         description: "Introducing FoodieHub is a full-stack food delivery application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless platform for users to explore a variety of restaurants, browse menus, and place orders with just a few clicks.",
-        image: `${img}`,
+        image: "https://github.com/Chanchal361/img/blob/main/food.png?raw=true",
         tags: [
             "React Js",
             "Express js",

@@ -15,7 +15,7 @@ function Footer() {
                     <a href="#education" className="footer-link">Education</a>
                 </div>
                 <div className="footer-social-container">
-                    <a href="https://www.linkedin.com/in/iamakr97" target='_blank'><FaLinkedin /></a>
+                    <a href="https://www.linkedin.com/in/chanchal-kumar-804a93269/" target='_blank'><FaLinkedin /></a>
                     <a href="" target='_blank'><FaInstagram /></a>
                     <a href="https://github.com/Chanchal361" target='_blank'><FaTwitter /></a>
                     <a href="" target='_blank'><FaSquareFacebook /></a>
